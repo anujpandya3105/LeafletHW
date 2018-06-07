@@ -9,5 +9,5 @@ A Legend at the bottom left shows the magnitude and the color codes.
 Please copy the 3 files a) index.html b) style.css c) logic.js to a folder of your choice</br>
 Please ensure that a web server is running. Launch the web server by executing command python -m http.server FROM the</br>
 directory where the above 3 files are placed. Port number should be 8000 typically.</br>
-On your nrowser type in URL http://127.0.0.1:8000</br>
+On your browser type in URL http://127.0.0.1:8000</br>
 Maps should be rendered.
